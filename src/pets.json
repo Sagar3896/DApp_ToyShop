@@ -1,0 +1,29 @@
+[
+  {
+    "id": 0,
+    "name": "Teddy",
+    "picture": "images/Teddy_1.jpg",
+    "price" : "2"
+  },
+  {
+    "id": 1,
+    "name": "Micky",
+    "picture": "images/Micky_1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Pikachu",
+    "picture": "images/Pikachu_1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Van",
+    "picture": "images/Van.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Swing",
+    "picture": "images/Swing.jpg"
+  }
+  
+]
